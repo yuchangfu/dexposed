@@ -1,4 +1,10 @@
 What is it?
+目前Dexposed的主要应用场景有以下几种：
+
+AOP编程
+插桩 (如测试、性能监控等)
+在线热补丁
+SDK hooking以提供更好的开发体验
 -----------
 Dexposed is a powerful yet non-invasive runtime [AOP (Aspect-oriented Programming)](http://en.wikipedia.org/wiki/Aspect-oriented_programming) framework
 for Android app development, based on the work of open-source [Xposed](https://github.com/rovo89/Xposed) [framework](https://github.com/rovo89/XposedBridge) project.
@@ -130,3 +136,4 @@ these principal in mind are welcome. At the same time, we are actively exploring
 potentially valuable use-cases and building powerful tools based upon Dexposed. We're
 interested in any ideas expanding the use-cases and grateful for community developed
 tools on top of Dexposed.
+
